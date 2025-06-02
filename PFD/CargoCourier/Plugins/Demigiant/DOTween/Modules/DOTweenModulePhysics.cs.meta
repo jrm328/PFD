@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dae9aa560b4242648a3affa2bfabc365
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs
+  uploadId: 442049

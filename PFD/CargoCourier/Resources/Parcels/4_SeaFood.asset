@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fec3a831d76a438d8360177b2d05289, type: 3}
+  m_Name: 4_SeaFood
+  m_EditorClassIdentifier: 
+  skin: {fileID: 308, guid: fb334002d5d0640b38a8b3be13ef2849, type: 3}
+  cost: 10
+  ID: sea_food
+  localizationKey: parcel_sea_food
+  spriteID: 6
+  weight: 0
+  enemyConfigs:
+  - {fileID: 11400000, guid: 84844ff52e5c94ae98eec3730b0d35e2, type: 2}

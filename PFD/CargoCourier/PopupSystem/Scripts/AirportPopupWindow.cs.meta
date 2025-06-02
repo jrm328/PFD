@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6388ce019f62f84bb9815891054802b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/PopupSystem/Scripts/AirportPopupWindow.cs
+  uploadId: 442049

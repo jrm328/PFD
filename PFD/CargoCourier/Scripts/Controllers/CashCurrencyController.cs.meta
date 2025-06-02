@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 43f49a139b07648eb8d65b8723d4d311
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Scripts/Controllers/CashCurrencyController.cs
+  uploadId: 442049

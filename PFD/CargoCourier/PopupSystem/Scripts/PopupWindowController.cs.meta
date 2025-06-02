@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f4ce8bf6e6d0b043a764ea05c07a935
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/PopupSystem/Scripts/PopupWindowController.cs
+  uploadId: 442049

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7ada0af4f174f0694ca6a487b8f543d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Plugins/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+  uploadId: 442049

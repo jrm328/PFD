@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db8e0e02b37ca4ad298aaec02e84f7dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/PopupSystem/Prefabs/ShopSlot.prefab
+  uploadId: 442049

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4de5017b4381742b1bbc1bd927725d41
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/Parcels/MedicalKit.prefab
+  uploadId: 442049

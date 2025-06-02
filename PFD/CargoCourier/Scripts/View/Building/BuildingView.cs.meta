@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ae3a71debfb74ed3807a4a95cc22302
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Scripts/View/Building/BuildingView.cs
+  uploadId: 442049

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1734f366990bf4610baf06f7ac7f668e
+timeCreated: 1455399487
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Art/Models/Materials/TransparentAtlas01.mat
+  uploadId: 442049

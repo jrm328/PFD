@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e6c07e1af89644759a39f9a50b09b3e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Scripts/Core/GlobalConfigs.cs
+  uploadId: 442049

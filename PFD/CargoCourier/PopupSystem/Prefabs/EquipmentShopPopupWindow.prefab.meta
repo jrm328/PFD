@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fb0a6ff3c323c54093c4abdc2862e58
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/PopupSystem/Prefabs/EquipmentShopPopupWindow.prefab
+  uploadId: 442049

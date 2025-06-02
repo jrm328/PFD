@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 429c11b881d9f44d29556ed2ecd229a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Resources/Vehicles/Bike.asset
+  uploadId: 442049

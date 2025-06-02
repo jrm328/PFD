@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 638e76f0275fa43f0ace9c77c988e5a6, type: 3}
+  m_Name: 1_PlayerRoller
+  m_EditorClassIdentifier: 
+  skin: {fileID: 182, guid: 8acccde1a72094548ad4697c9d44682f, type: 3}
+  ID: Roller Skater
+  localizationKey: player_roller
+  isAvailableByDefault: 1
+  speed: 14
+  spriteID: 16

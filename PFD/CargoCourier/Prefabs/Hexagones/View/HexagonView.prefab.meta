@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce12ad62aa7544989a12af8d442b2918
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/Hexagones/View/HexagonView.prefab
+  uploadId: 442049

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53302f0b8a6394fdbac02b53532a6edc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Resources/Currency/Parcels.asset
+  uploadId: 442049

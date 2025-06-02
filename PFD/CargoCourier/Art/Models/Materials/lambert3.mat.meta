@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bd58b4eef0814c9984b28309886555a
+timeCreated: 1455965938
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Art/Models/Materials/lambert3.mat
+  uploadId: 442049

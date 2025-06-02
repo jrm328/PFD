@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a41f6b12f6401459a924be3a1bdd13f5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/Parcels/PaperBox.prefab
+  uploadId: 442049

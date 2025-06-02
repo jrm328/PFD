@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46d99afd7f84040f18865a8d6c063dba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Resources/Enemies/Wolf.asset
+  uploadId: 442049

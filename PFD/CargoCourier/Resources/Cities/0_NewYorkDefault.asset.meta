@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0e7195f3c27d4d33913d317e5de3c5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Resources/Cities/0_NewYorkDefault.asset
+  uploadId: 442049

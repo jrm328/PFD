@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e235f38db3e6db40bcd3156cb28670f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/PopupSystem/Prefabs/BuildingLockedPopupWindow.prefab
+  uploadId: 442049

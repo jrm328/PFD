@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b36107e00294bfc89456b18a360326, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  skin: {fileID: 292, guid: cf126a39a77404e1dbec187252e0a4cc, type: 3}
+  bullet: {fileID: 257, guid: 483fb0730cc754f71bb21ff6b4819cab, type: 3}
+  catridge: {fileID: 861544230178439081, guid: 92e0cc5d466274a139732d9bf33b7f9f, type: 3}
+  ID: weapon_rifle
+  localizationKey: rifle
+  picture: {fileID: 0}
+  isAvailable: 1
+  damage: 1
+  rateOfFire: 0.07
+  rangeOfFire: 12
+  accuracyAngle: 4
+  accuracyPositionX: 0.3
+  bulletScaleMin: 0.2
+  bulletScaleMax: 0.3

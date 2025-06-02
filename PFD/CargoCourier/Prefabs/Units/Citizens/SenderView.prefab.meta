@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a824abab8e094d6f9cc1fc5ffcc2f7d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/Units/Citizens/SenderView.prefab
+  uploadId: 442049

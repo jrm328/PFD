@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0474df4185dfc4db4adc0d2c2bba3ccc
+timeCreated: 1451926994
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Art/Models/Materials/surfaceShader2.mat
+  uploadId: 442049

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40b68a0c78787ae4a82fc048902e9e01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/PopupSystem/PopupWindowConfig.asset
+  uploadId: 442049

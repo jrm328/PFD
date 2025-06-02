@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cea746f82769144f2bcd6c4cdbddb2bb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Art/Shaders/Gradient_3Color.shader
+  uploadId: 442049

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5296fb76bb943f4c90128a928558f83, type: 3}
+  m_Name: PopupWindowConfig
+  m_EditorClassIdentifier: 
+  windowPrefabs:
+  - {fileID: 3637942516825388480, guid: 1fb0a6ff3c323c54093c4abdc2862e58, type: 3}
+  - {fileID: 1614889859166954475, guid: 012eefb186c5893458d6ae333eb7eaa1, type: 3}
+  buildingLockedPopupWindowPrefab: {fileID: 1614889859166954475, guid: 7e235f38db3e6db40bcd3156cb28670f,
+    type: 3}

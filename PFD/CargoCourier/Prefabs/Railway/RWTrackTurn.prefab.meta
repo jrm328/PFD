@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65c4aaa5f930e420087636552b18c9e7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/Railway/RWTrackTurn.prefab
+  uploadId: 442049

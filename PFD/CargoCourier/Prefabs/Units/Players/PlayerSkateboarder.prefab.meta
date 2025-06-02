@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7a8292e4cbdc4656b02d7f6f998de52
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/Units/Players/PlayerSkateboarder.prefab
+  uploadId: 442049

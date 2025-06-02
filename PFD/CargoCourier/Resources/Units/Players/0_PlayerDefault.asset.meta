@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33b8a98065720424aa0000870107fcfc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Resources/Units/Players/0_PlayerDefault.asset
+  uploadId: 442049

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a394b501b94a24df5a79878ded13c3d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Art/Textures/UI/AtlasIcons.asset
+  uploadId: 442049

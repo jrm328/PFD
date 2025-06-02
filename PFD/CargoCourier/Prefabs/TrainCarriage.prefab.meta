@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0a89e9cac0704d82a938b9ae44fa032
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/TrainCarriage.prefab
+  uploadId: 442049

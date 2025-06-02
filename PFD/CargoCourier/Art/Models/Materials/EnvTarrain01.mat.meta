@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fea39695b28c49f1a7a0ea08256e1bb
+timeCreated: 1461535632
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Art/Models/Materials/EnvTarrain01.mat
+  uploadId: 442049

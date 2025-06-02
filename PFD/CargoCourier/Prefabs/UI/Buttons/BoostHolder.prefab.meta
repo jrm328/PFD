@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4ef80dca486e41f78dbd46169f289d6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/UI/Buttons/BoostHolder.prefab
+  uploadId: 442049

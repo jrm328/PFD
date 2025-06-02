@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51273fc8b6a02496f870cd4a1b0d48bc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/UI/UIRadarIcon.prefab
+  uploadId: 442049

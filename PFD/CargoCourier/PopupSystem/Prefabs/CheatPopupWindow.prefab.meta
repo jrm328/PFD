@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 012eefb186c5893458d6ae333eb7eaa1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/PopupSystem/Prefabs/CheatPopupWindow.prefab
+  uploadId: 442049

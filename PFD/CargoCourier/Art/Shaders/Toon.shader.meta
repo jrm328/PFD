@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9bdf4a89f8e0c45289d5eedf82ee9f61
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Art/Shaders/Toon.shader
+  uploadId: 442049

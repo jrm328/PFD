@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bd7ce990e0d241f3b3a112f94608d86
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/TrainLocomotive.prefab
+  uploadId: 442049

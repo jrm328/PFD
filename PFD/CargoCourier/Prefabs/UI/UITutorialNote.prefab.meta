@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68549f1a88adb4204a1d3b2b2e3cdd02
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198556
+  packageName: Cargo Courier
+  packageVersion: 1.0
+  assetPath: Assets/AleksandrGorodiski/CargoCourier/Prefabs/UI/UITutorialNote.prefab
+  uploadId: 442049
